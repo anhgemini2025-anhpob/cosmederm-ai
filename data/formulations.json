@@ -1,0 +1,380 @@
+{
+  "system_metadata": {
+    "dataset_name": "Commercial Cosmetic Formulations & Prescriptions Database",
+    "description": "Commercial formulation prescriptions from Iwata & Shimada, Takeo Mitsui, and Claude Bouillon textbooks.",
+    "version": "1.0",
+    "language": "Tiếng Việt / English (INCI)"
+  },
+  "formulations": [
+    {
+      "formula_id": "FORM-SKIN-001",
+      "title": "Emollient Skin Cream (O/W Emulsion, Soap & Nonionic Base)",
+      "target_category": "Skincare (Kem dưỡng ẩm mềm da)",
+      "sensory_feel_description": "Kem có kết cấu mượt mà, độ giữ ẩm cao, dàn trải dễ dàng trên da mà không gây bết dính.",
+      "phases": [
+        {
+          "phase_name": "Phase A (Oil Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Cetyl Alcohol",
+              "percentage": 5.0,
+              "function": "Thickener & Stiffening agent"
+            },
+            {
+              "inci_name": "Stearic Acid",
+              "percentage": 3.0,
+              "function": "In-situ soap builder & Emollient"
+            },
+            {
+              "inci_name": "Petrolatum",
+              "percentage": 5.0,
+              "function": "Occlusive moisture barrier"
+            },
+            {
+              "inci_name": "Squalane",
+              "percentage": 10.0,
+              "function": "Emollient oil with high skin affinity"
+            },
+            {
+              "inci_name": "Glycerol Tri-2-ethylhexanoate",
+              "percentage": 7.0,
+              "function": "Light ester oil for feel adjustment"
+            },
+            {
+              "inci_name": "Propylene Glycol Monostearate",
+              "percentage": 3.0,
+              "function": "Lipophilic co-emulsifier"
+            },
+            {
+              "inci_name": "POE (20) Cetyl Ether",
+              "percentage": 3.0,
+              "function": "Hydrophilic nonionic emulsifier"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase B (Water Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Dipropylene Glycol",
+              "percentage": 5.0,
+              "function": "Humectant & Texture modifier"
+            },
+            {
+              "inci_name": "Glycerin",
+              "percentage": 5.0,
+              "function": "Core humectant"
+            },
+            {
+              "inci_name": "Triethanolamine (TEA)",
+              "percentage": 1.0,
+              "function": "Alkali neutralizer for Stearic acid"
+            },
+            {
+              "inci_name": "Purified Water",
+              "percentage": 58.0,
+              "function": "Solvent / Bulk vehicle"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase C (Additives)",
+          "ingredients": [
+            {
+              "inci_name": "Preservative & Fragrance",
+              "percentage": "q.s.",
+              "function": "Preservation & Aesthetics"
+            }
+          ]
+        }
+      ],
+      "specifications": {
+        "ph_range": "6.5 - 7.5",
+        "viscosity_cps": "25,000 - 35,000",
+        "appearance": "White shiny cream"
+      },
+      "manufacturing_instructions": [
+        "1. Trộn và đun nóng các thành phần Phase A đến 70-75°C cho tan chảy hoàn toàn.",
+        "2. Hòa tan các chất Phase B trong nước tinh khiết và đun nóng đến 70-75°C.",
+        "3. Cho Phase A từ từ vào Phase B trong khi khuấy đều để thực hiện phản ứng xà phòng hóa in-situ và nhũ hóa sơ bộ.",
+        "4. Dùng Homomixer đồng hóa ở tốc độ 3000 rpm trong 5 phút để phân tán hạt nhũ mịn và đồng đều.",
+        "5. Làm nguội từ từ dưới sự khuấy nhẹ xuống 45°C, cho Phase C vào, khử bọt và đóng gói ở 30°C."
+      ],
+      "formulation_know_how": "Phản ứng giữa Stearic acid và TEA tạo ra xà phòng triethanolamine stearate giúp hệ nhũ O/W đạt độ ổn định nhiệt độ cao và độ bóng đặc trưng chuẩn Nhật Bản.",
+      "book_sources": [
+        "Formulas, Ingredients and Production of Cosmetics (Iwata & Shimada)",
+        "New Cosmetic Science (Takeo Mitsui)"
+      ]
+    },
+    {
+      "formula_id": "FORM-SKIN-002",
+      "title": "W/O Amino Acid Gel Emulsion Cream (Màng gel Axit Amin giữ ẩm sâu)",
+      "target_category": "Skincare (Kem dưỡng ẩm W/O nâng cao)",
+      "sensory_feel_description": "Cung cấp độ ẩm dồi dào, khả năng kháng nước cao nhưng cảm giác thoa nhẹ nhàng nhờ công nghệ màng gel amino acid.",
+      "phases": [
+        {
+          "phase_name": "Phase 1 (Surfactant / Amino Acid Gel Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Diglycerol Dioleate",
+              "percentage": 5.0,
+              "function": "W/O Surfactant"
+            },
+            {
+              "inci_name": "L-Sodium Glutamate",
+              "percentage": 1.6,
+              "function": "Amino acid gel builder"
+            },
+            {
+              "inci_name": "L-Serine",
+              "percentage": 0.4,
+              "function": "NMF amino acid active"
+            },
+            {
+              "inci_name": "Purified Water (Part 1)",
+              "percentage": 13.0,
+              "function": "Water phase for gel formation"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase 2 (Oil Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Liquid Paraffin",
+              "percentage": 30.0,
+              "function": "Hydrophobic oil base"
+            },
+            {
+              "inci_name": "Microcrystalline Wax",
+              "percentage": 2.0,
+              "function": "Viscosity & gel structurant"
+            },
+            {
+              "inci_name": "Petrolatum",
+              "percentage": 5.0,
+              "function": "Emollient & barrier protector"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase 3 (Outer Water Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Propylene Glycol",
+              "percentage": 3.0,
+              "function": "Humectant"
+            },
+            {
+              "inci_name": "Purified Water (Part 2)",
+              "percentage": 40.0,
+              "function": "Bulk water phase"
+            }
+          ]
+        }
+      ],
+      "specifications": {
+        "ph_range": "5.5 - 6.5",
+        "viscosity_cps": "40,000 - 50,000",
+        "appearance": "Glossy water-in-oil cream"
+      },
+      "manufacturing_instructions": [
+        "1. Đun nóng Phase 1 đến 50°C, khuấy đều để tạo ra hợp chất nhũ tương surfactant phase (Amino Acid Gel).",
+        "2. Đun tan chảy Phase 2 ở 70°C, sau đó phân tán đều phức hợp Amino Acid Gel từ Bước 1 vào Phase 2.",
+        "3. Đun Phase 3 lên 70°C và cho từ từ vào hỗn hợp dầu, khuấy trộn mạnh với Homomixer.",
+        "4. Khử bọt, lọc và làm nguội xuống 30°C."
+      ],
+      "formulation_know_how": "Kỹ thuật nhũ hóa gel axit amin giúp hệ W/O vốn bị coi là nhờn rít trở nên mượt mà, chứa được lượng nước lớn mà không bị tách pha ở nhiệt độ cao.",
+      "book_sources": [
+        "New Cosmetic Science (Takeo Mitsui)"
+      ]
+    },
+    {
+      "formula_id": "FORM-HAIR-001",
+      "title": "Damage Care & Moisturizing Shampoo (Dầu gội Phục hồi tóc hư tổn)",
+      "target_category": "Haircare (Dầu gội phục hồi)",
+      "sensory_feel_description": "Tạo bọt kem cực mịn, dính bám tốt vào vùng tóc hư tổn tích điện âm, giúp xả sạch mà tóc vẫn mềm mượt.",
+      "phases": [
+        {
+          "phase_name": "Phase A (Anionic & Amphoteric Surfactant Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Sodium Lauroyl Beta-Alanine (30%)",
+              "percentage": 27.0,
+              "function": "Mild amino acid surfactant"
+            },
+            {
+              "inci_name": "Sodium Methyl Cocoyl Taurate (30%)",
+              "percentage": 9.0,
+              "function": "Mild foaming co-surfactant"
+            },
+            {
+              "inci_name": "Cocamidopropyl Betaine (30%)",
+              "percentage": 9.0,
+              "function": "Amphoteric foam booster & irritancy reducer"
+            },
+            {
+              "inci_name": "Lauramidopropylamine Oxide (30%)",
+              "percentage": 3.0,
+              "function": "Foam stabilizer & thickener"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase B (Cationic Polymer & Conditioning Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Polyquaternium-10",
+              "percentage": 0.4,
+              "function": "Cationic deposition polymer"
+            },
+            {
+              "inci_name": "Polyquaternium-7",
+              "percentage": 1.2,
+              "function": "Cationic feel improver"
+            },
+            {
+              "inci_name": "Disodium EDTA",
+              "percentage": 0.1,
+              "function": "Chelating agent"
+            },
+            {
+              "inci_name": "Sodium Benzoate",
+              "percentage": 0.2,
+              "function": "Preservative"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase C (Active & Silicone Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Hydrolyzed Keratin",
+              "percentage": 1.0,
+              "function": "Protein repair active"
+            },
+            {
+              "inci_name": "Bis(C13-15 Alkoxy) PG Amodimethicone",
+              "percentage": 0.6,
+              "function": "Amino-modified silicone for damaged hair adhesion"
+            },
+            {
+              "inci_name": "50% Citric Acid",
+              "percentage": 0.3,
+              "function": "pH regulator"
+            }
+          ]
+        }
+      ],
+      "specifications": {
+        "ph_range": "5.0 - 5.8",
+        "viscosity_cps": "3,500 - 5,000",
+        "appearance": "Clear or pearlescent liquid"
+      },
+      "manufacturing_instructions": [
+        "1. Phân tán Polyquaternium-10 trong nước tinh khiết, đun nóng lên 80°C cho tan hoàn toàn, sau đó thêm Disodium EDTA và Sodium Benzoate (Phase B).",
+        "2. Thêm các chất hoạt động bề mặt Phase A vào Phase B ở 70°C, khuấy đều.",
+        "3. Làm nguội xuống 45°C, cho Hydrolyzed Keratin và Amodimethicone (Phase C) vào.",
+        "4. Điều chỉnh pH bằng dung dịch Citric Acid 50% đạt mức 5.0 - 5.8."
+      ],
+      "formulation_know_how": "Sự kết hợp giữa polymer cation (Polyquaternium-10/7) và Silicone biến tính Amino (Amodimethicone) giúp bám dính đặc hiệu vào các điểm tổn thương mang điện âm trên sợi tóc.",
+      "book_sources": [
+        "Formulas, Ingredients and Production of Cosmetics (Iwata & Shimada)"
+      ]
+    },
+    {
+      "formula_id": "FORM-HAIR-002",
+      "title": "Cationic Leave-On Liquid Hair Conditioner (Dầu xả khô dạng lỏng mượt tóc)",
+      "target_category": "Haircare (Dầu xả khô / Leave-on)",
+      "sensory_feel_description": "Kết cấu lỏng xịt dạng phun sương hoặc thoa tay, tơi tóc, không gây nặng tóc hay bết dính.",
+      "phases": [
+        {
+          "phase_name": "Phase A (Cationic & Fatty Alcohol Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Steartrimonium Chloride",
+              "percentage": 1.8,
+              "function": "Primary cationic agent"
+            },
+            {
+              "inci_name": "Cetanol",
+              "percentage": 1.8,
+              "function": "Consistency factor"
+            },
+            {
+              "inci_name": "Myristyl Alcohol",
+              "percentage": 0.4,
+              "function": "Light feel alcohol"
+            },
+            {
+              "inci_name": "Ethylhexyl Myristate",
+              "percentage": 0.8,
+              "function": "Spreading ester"
+            },
+            {
+              "inci_name": "Steareth-20",
+              "percentage": 0.2,
+              "function": "Nonionic solubilizer"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase B (Water & Polymer Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Guar Hydroxypropyltrimonium Chloride",
+              "percentage": 0.2,
+              "function": "Cationic guar gum thickener"
+            },
+            {
+              "inci_name": "Glycerin",
+              "percentage": 2.0,
+              "function": "Humectant"
+            },
+            {
+              "inci_name": "Propylene Glycol",
+              "percentage": 3.0,
+              "function": "Solvent/Humectant"
+            },
+            {
+              "inci_name": "Purified Water",
+              "percentage": 81.3,
+              "function": "Bulk vehicle"
+            }
+          ]
+        },
+        {
+          "phase_name": "Phase C (Silicone & Active Phase)",
+          "ingredients": [
+            {
+              "inci_name": "Silicone Emulsion",
+              "percentage": 10.0,
+              "function": "Lubrication provider"
+            },
+            {
+              "inci_name": "Polyquaternium-64 (Lipidure-C)",
+              "percentage": 0.1,
+              "function": "Biocompatible moisture membrane agent"
+            }
+          ]
+        }
+      ],
+      "specifications": {
+        "ph_range": "4.0 - 5.5",
+        "viscosity_cps": "1,000 - 2,500",
+        "appearance": "Milky fluid lotion"
+      },
+      "manufacturing_instructions": [
+        "1. Phân tán Guar Cationic trong Glycerin và PG, cho vào nước tinh khiết đun lên 80°C cho tan (Phase B).",
+        "2. Đun chảy Phase A ở 80°C, cho Phase A vào Phase B và nhũ hóa.",
+        "3. Làm nguội xuống 45°C, thêm Silicone Emulsion và Lipidure-C.",
+        "4. Điều chỉnh pH bằng dung dịch Lactic Acid đạt 4.0 - 5.5."
+      ],
+      "formulation_know_how": "Sử dụng Steartrimonium Chloride làm chất cation chính kết hợp cồn béo chuỗi ngắn hơn (Myristyl alcohol) giúp sản phẩm leave-on không bị quá nặng tóc so với Behentrimonium.",
+      "book_sources": [
+        "Formulas, Ingredients and Production of Cosmetics (Iwata & Shimada)",
+        "The Science of Hair Care (Claude Bouillon)"
+      ]
+    }
+  ]
+}

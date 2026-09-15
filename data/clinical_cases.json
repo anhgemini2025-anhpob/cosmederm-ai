@@ -1,0 +1,139 @@
+{
+  "system_metadata": {
+    "dataset_name": "Clinical Aesthetic Dermatology Decision & Case Studies Database",
+    "description": "Evidence-based clinical decision trees and case protocols grounded in Burgess, Draelos, and Baran & Maibach textbooks.",
+    "version": "1.0",
+    "language": "Tiếng Vietnamese / Medical English"
+  },
+  "clinical_cases": [
+    {
+      "case_id": "CLIN-001",
+      "condition_name": "Glogau Type III Photoaging & Glabellar Dynamic Rhytids (Lão hóa do ánh sáng mức độ nặng & Nếp nhăn động vầng trán/nhíu mày)",
+      "patient_profile": {
+        "age_range": "45 - 58 tuổi",
+        "fitzpatrick_skin_type": "Fitzpatrick III - IV",
+        "glogau_classification": "Glogau Type III ('Wrinkles at rest', có tăng sắc tố rải rác và dải nếp nhăn tĩnh)",
+        "primary_complaints": "Nếp nhăn nhíu mày sâu (glabellar lines), nếp nhăn chân chim (crow's feet), da không đều màu và xuất hiện đốm đồi mồi."
+      },
+      "topical_regimen": [
+        {
+          "active": "Tretinoin Cream 0.05%",
+          "schedule": "Thoa mỗi tối trước khi đi ngủ (Bắt đầu 2 lần/tuần để tăng dung nạp)"
+        },
+        {
+          "active": "Hydroquinone 4% + Fluocinolone 0.01% + Tretinoin 0.05% (Tri-Luma)",
+          "schedule": "Thoa vùng tăng sắc tố trong 8-12 tuần"
+        },
+        {
+          "active": "L-Ascorbic Acid (Vitamin C 15%) + Vitamin E + Ferulic Acid",
+          "schedule": "Thoa mỗi buổi sáng dưới kem chống nắng"
+        },
+        {
+          "active": "Broad Spectrum Sunscreen SPF 50+ (Zinc Oxide / Titanium Dioxide)",
+          "schedule": "Thoa hàng ngày, thoa lại sau mỗi 2-3 giờ"
+        }
+      ],
+      "clinical_procedures": [
+        {
+          "procedure_type": "Botulinum Toxin Type A (Botox / Dysport)",
+          "dosage_or_parameters": "20 - 30 Units Botox (hoặc 50 - 75 Units Dysport) chia cho 5 điểm tiêm vùng Glabella (Corrugator supercilii & Procerus)",
+          "technique_and_depth": "Tiêm bắp (Intramuscular injection). Tiêm chính xác vào cơ mày để làm thư giãn cơ cử động gây nhăn.",
+          "precautions_and_contraindications": "Chống chỉ định ở bệnh nhân nhược cơ (Myasthenia Gravis), phụ nữ mang thai. Tránh tiêm quá thấp gần bờ trên hốc mắt để ngừa sụp mi (ptosis)."
+        },
+        {
+          "procedure_type": "Medium-Depth Chemical Peel (70% Glycolic Acid + 35% TCA hoặc Monheit Protocol)",
+          "dosage_or_parameters": "Apply Jessner's Solution (1-2 lớp) sau đó phủ TCA 35%",
+          "technique_and_depth": "Tác động đến lớp thượng bì và trung bì nhú (papillary dermis), xuất hiện lớp sương trắng đều (frosting).",
+          "precautions_and_contraindications": "Phải chuẩn bị da bằng Tretinoin và Hydroquinone trong 2-4 tuần trước peel để ngừa tăng sắc tố sau viêm (PIH)."
+        }
+      ],
+      "combined_therapy_synergy": "Việc kết hợp tiêm Botox trước 2 tuần giúp làm ngưng sự co cơ vùng trán, từ đó bảo vệ lớp collagen mới tái tạo từ liệu pháp Peel da hoặc tiêm HA Filler, kéo dài hiệu quả điều trị gấp 2 lần so với đơn trị liệu.",
+      "book_sources": [
+        "Cosmetic Dermatology (Cheryl M. Burgess)",
+        "Cosmetic Dermatology: Products and Procedures (Zoe Draelos)"
+      ]
+    },
+    {
+      "case_id": "CLIN-002",
+      "condition_name": "Epidermal & Dermal Melasma with Post-Inflammatory Hyperpigmentation (Nám mảng thượng bì & Tăng sắc tố sau viêm)",
+      "patient_profile": {
+        "age_range": "32 - 48 tuổi",
+        "fitzpatrick_skin_type": "Fitzpatrick IV - V (Làn da Châu Á)",
+        "glogau_classification": "Glogau Type II",
+        "primary_complaints": "Mảng dát sắc tố nâu đậm đối xứng hai bên gò má, trán và mép trên sau khi mang thai hoặc tiếp xúc nắng."
+      },
+      "topical_regimen": [
+        {
+          "active": "Kojic Acid 1% + Tranexamic Acid 3% + Niacinamide 5%",
+          "schedule": "Thoa 2 lần/ngày"
+        },
+        {
+          "active": "Azelaic Acid 15-20% Gel",
+          "schedule": "Thoa mỗi tối (Ức chế men Tyrosinase chọn lọc trên tế bào hắc tố tăng hoạt)"
+        },
+        {
+          "active": "Kem chống nắng phổ rộng chống ánh sáng nhìn thấy (HEV / Blue light)",
+          "schedule": "Thoa hàng ngày chứa Iron Oxides"
+        }
+      ],
+      "clinical_procedures": [
+        {
+          "procedure_type": "Superficial Glycolic Acid / Salicylic Acid Peel",
+          "dosage_or_parameters": "Glycolic Acid 30% - 50% (pH 3.0) hoặc Salicylic Acid 20-30%",
+          "technique_and_depth": "Loại bỏ tế bào sừng đốm sắc tố ở thượng bì, thời gian lưu 3-5 phút sau đó trung hòa bằng Sodium Bicarbonate.",
+          "precautions_and_contraindications": "Tuyệt đối không thực hiện peel quá sâu trên da Fitzpatrick IV-V để tránh nguy cơ bùng phát PIH nghiêm trọng."
+        },
+        {
+          "procedure_type": "Low-Fluence Q-Switched Nd:YAG Laser (Laser Toning 1064nm)",
+          "dosage_or_parameters": "Fluence 1.2 - 1.6 J/cm2, spot size 6-8mm, tần số 10Hz",
+          "technique_and_depth": "Phá vỡ hạt Melanosome bằng hiệu ứng quang cơ (photomechanical) không gây tổn thương nhiệt mô xung quanh.",
+          "precautions_and_contraindications": "Ngưng điều trị nếu xuất hiện đốm mất sắc tố hình giọt nước (guttate hypopigmentation)."
+        }
+      ],
+      "combined_therapy_synergy": "Thoa bôi Tranexamic acid và Niacinamide giúp làm dịu mạch máu và ngăn chặn truyền Melanosome sang tế bào sừng, kết hợp với Peel nông hoặc Laser Toning giúp dọn sạch sắc tố nhanh chóng.",
+      "book_sources": [
+        "Cosmetic Dermatology: Products and Procedures (Zoe Draelos)",
+        "Textbook of Cosmetic Dermatology (Baran & Maibach)"
+      ]
+    },
+    {
+      "case_id": "CLIN-003",
+      "condition_name": "Midface Lipoatrophy & Nasolabial Folds (Mất thể tích tầng mặt giữa & Rãnh cười sâu)",
+      "patient_profile": {
+        "age_range": "40 - 65 tuổi",
+        "fitzpatrick_skin_type": "Fitzpatrick I - VI",
+        "glogau_classification": "Glogau Type III - IV",
+        "primary_complaints": "Hõm má, lõm thái dương, rãnh mũi má (nasolabial folds) sâu và chùng nhão đường viền hàm."
+      },
+      "topical_regimen": [
+        {
+          "active": "Palmitoyl Pentapeptide-4 (Matrixyl) + Copper Tripeptide-1",
+          "schedule": "Thoa 2 lần/ngày kích thích tổng hợp collagen"
+        },
+        {
+          "active": "Hyaluronic Acid đa phân tử",
+          "schedule": "Thoa dưỡng ẩm bề mặt"
+        }
+      ],
+      "clinical_procedures": [
+        {
+          "procedure_type": "Cross-Linked Hyaluronic Acid Dermal Filler (Restylane Perlane / Juvederm Voluma)",
+          "dosage_or_parameters": "1.0 - 2.0 mL mỗi bên mặt",
+          "technique_and_depth": "Kỹ thuật tiêm luồn quạt (Fanning) hoặc tiêm điểm sâu sát màng xương (Bolus supracrestal/subdermal) vùng gò má và rãnh mũi má.",
+          "precautions_and_contraindications": "Cần hút thử xilanh (aspiration) trước khi tiêm để tránh tiêm lầm vào động mạch mặt gây tắc mạch và hoại tử."
+        },
+        {
+          "procedure_type": "Poly-L-Lactic Acid (Sculptra) Volume Enhancer",
+          "dosage_or_parameters": "1-2 lọ (vials) tái tạo với 8mL nước cất pha tiêm + 2mL Lidocaine",
+          "technique_and_depth": "Tiêm chéo (Cross-hatching) lớp trung bì sâu hoặc mỡ dưới da để kích thích tăng sinh collagen tự thân trong 4-6 tuần.",
+          "precautions_and_contraindications": "Cần massage vùng tiêm theo quy tắc 5-5-5 (5 phút/lần, 5 lần/ngày, trong 5 ngày) để ngừa tạo hạt nốt sần."
+        }
+      ],
+      "combined_therapy_synergy": "Tiêm khôi phục thể tích tầng mặt giữa bằng HA Filler đem lại hiệu quả tức thì, trong khi PLLA kích thích tạo collagen dài hạn duy trì nét trẻ trung từ 18-24 tháng.",
+      "book_sources": [
+        "Cosmetic Dermatology (Cheryl M. Burgess)",
+        "Textbook of Cosmetic Dermatology (Takeo Mitsui / Baran & Maibach)"
+      ]
+    }
+  ]
+}

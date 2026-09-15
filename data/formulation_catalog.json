@@ -1,0 +1,3968 @@
+{
+  "system_metadata": {
+    "total": 292,
+    "sources": [
+      "Beraca",
+      "BJC Specialties",
+      "BJC Specialty",
+      "C.H. Erbslöh",
+      "Croda",
+      "DKSH",
+      "Gattefosé",
+      "Lake Personal Care",
+      "Lipoid Kosmetik",
+      "Orafti",
+      "quantiQ",
+      "R.T. Vanderbilt",
+      "Sun Chemical"
+    ],
+    "note": "Danh mục tổng hợp từ hồ sơ công thức tham khảo thực tế của R.T. Vanderbilt, Lipoid Kosmetik, BJC Specialty và các đối tác đóng góp — chỉ dùng cho mục đích tham khảo/nghiên cứu, không phải công thức thương mại hoàn chỉnh sẵn sàng sản xuất."
+  },
+  "formulations": [
+    {
+      "id": "Beraca-makeupprimer",
+      "name": "Make-Up Primer",
+      "brand": "Beraca",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Beraca (Brazil)",
+      "nameVi": "Kem Lót Trang Điểm",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Beraca-pulpbodyscrub",
+      "name": "Pulp Body Scrub",
+      "brand": "Beraca",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Beraca (Brazil)",
+      "nameVi": "Pulp Thân Tẩy Tế Bào Chết",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "Beraca-sunscreenspf15oilyskin",
+      "name": "Sunscreen SPF 15 Oily Skin",
+      "brand": "Beraca",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Beraca (Brazil)",
+      "nameVi": "Chống Nắng SPF 15 Da Dầu",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "BJC Specialties-basebodylotion",
+      "name": "Base Body Lotion",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Sữa Dưỡng Thể",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "BJC Specialties-basecccream",
+      "name": "Base CC Cream",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Kem CC",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "BJC Specialties-basecream",
+      "name": "Base Cream",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialties-basedryshampoo",
+      "name": "Base Dry Shampoo",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Dầu Gội Khô",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "BJC Specialties-baseessence",
+      "name": "Base Essence",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Tinh Chất",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialties-baseleaveon",
+      "name": "Base Leave on",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Dưỡng Để Lại Trên Da",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialties-baseserum",
+      "name": "Base Serum",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "Base Serum",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialties-ncno2web",
+      "name": "NC No 2 web",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "NC No 2 web",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialties-nlno1web",
+      "name": "NL No 1 web",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "NL No 1 web",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialties-nlno3web",
+      "name": "NL No 3 web",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "NL No 3 web",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialties-nsno1web",
+      "name": "NS No 1 web",
+      "brand": "BJC Specialties",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialties",
+      "nameVi": "NS No 1 web",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialty-allrevitalizedhairtonic",
+      "name": "All-Revitalized Hair Tonic",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "All-Hồi Sinh Tóc Nước Dưỡng",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "BJC Specialty-allrounderbarrierbodycream",
+      "name": "All-rounder Barrier Body Cream",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Toàn Diện Barrier Thân Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialty-allrounderbarrierfaciallotion",
+      "name": "All-rounder Barrier Facial Lotion",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Toàn Diện Barrier Cho Mặt Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialty-antiblemishjellygel",
+      "name": "Anti-blemish Jelly Gel",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Ngừa Mụn Jelly Gel",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialty-balancingsoothingscalpserum",
+      "name": "Balancing & Soothing Scalp Serum",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Cân Bằng & Làm Dịu Da Đầu Serum",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "BJC Specialty-detoxifyingpreshampooclaymask",
+      "name": "Detoxifying Pre-shampoo Clay Mask",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Thải Độc Dưỡng Trước Gội Mặt Nạ Đất Sét",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "BJC Specialty-multibalancingtoothpaste",
+      "name": "Multi-balancing Toothpaste",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Multi-Cân Bằng Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "BJC Specialty-plumprepairnaturalessence",
+      "name": "Plump & Repair Natural Essence",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Plump & Phục Hồi Tự Nhiên Tinh Chất",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "BJC Specialty-pollutionshieldingleaveontreatment",
+      "name": "Pollution Shielding Leave-on Treatment",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Chắn Ô Nhiễm Dưỡng Để Lại Trên Da",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "BJC Specialty-revitalizedhairtonic",
+      "name": "Revitalized Hair Tonic",
+      "brand": "BJC Specialty",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "BJC Specialty",
+      "nameVi": "Hồi Sinh Tóc Nước Dưỡng",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "C.H. Erbslöh-erbslohsoothingdaycream",
+      "name": "Erbsloh Soothing Day Cream",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Erbsloh Làm Dịu Day Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "C.H. Erbslöh-footcreamsmi0816e",
+      "name": "Foot Cream - SMI 0816e",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Kem Dưỡng Chân - SMI 0816e",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "C.H. Erbslöh-kolalimefirmingcreamsmi4613b",
+      "name": "Kola Lime Firming Cream - SMI 4613b",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Kola Lime Săn Chắc Kem - SMI 4613b",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "C.H. Erbslöh-mildcreampeelingsmi3112h",
+      "name": "Mild Cream Peeling - SMI 3112h",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Mild Kem Peel - SMI 3112h",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "C.H. Erbslöh-moisturisingfacialmaskwaterjarsmi0516a",
+      "name": "Moisturising Facial Mask Water Jar - SMI 0516a",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Moisturising Mặt Nạ Mặt Water Jar - SMI 0516a",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "C.H. Erbslöh-moisturisingmonoicreamsmi4612c",
+      "name": "Moisturising Monoi Cream - SMI 4612c",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Moisturising Monoi Kem - SMI 4612c",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "C.H. Erbslöh-presunlotionsmi1011c",
+      "name": "Pre-Sun Lotion - SMI 1011c",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Trước Khi Ra Nắng Sữa Dưỡng - SMI 1011c",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "C.H. Erbslöh-revitalisingfacemasksmi4214b",
+      "name": "Revitalising Face Mask - SMI 4214b",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Revitalising Mặt Nạ Mặt - SMI 4214b",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "C.H. Erbslöh-veganmattefinishfluidsmi1315f",
+      "name": "Vegan Matte Finish Fluid - SMI 1315f",
+      "brand": "C.H. Erbslöh",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "C.H. Erbslöh (Đức)",
+      "nameVi": "Thuần Chay Matte Finish Fluid - SMI 1315f",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Croda-liquidfoundationcrodamolsts",
+      "name": "Liquid Foundation Crodamol STS",
+      "brand": "Croda",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Croda",
+      "nameVi": "Liquid Foundation Crodamol STS",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Croda-miracleskinprotectorbbcreamspf27",
+      "name": "Miracle Skin Protector BB Cream SPF 27",
+      "brand": "Croda",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Croda",
+      "nameVi": "Miracle Bảo Vệ Da Kem BB SPF 27",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "Croda-owhydratingwrappingcream",
+      "name": "O W Hydrating Wrapping Cream",
+      "brand": "Croda",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Croda",
+      "nameVi": "O W Cấp Nước Wrapping Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "Croda-onestepliquidfoundation",
+      "name": "One Step Liquid Foundation",
+      "brand": "Croda",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Croda",
+      "nameVi": "One Step Liquid Foundation",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Croda-protectdefendsunemulsion",
+      "name": "Protect Defend Sun Emulsion",
+      "brand": "Croda",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Croda",
+      "nameVi": "Protect Defend Sun Emulsion",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "DKSH-dkshantiagingandmoisturisinglotion",
+      "name": "DKSH Anti aging and moisturising lotion",
+      "brand": "DKSH",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Chống Lão Hóa & moisturising Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "DKSH-dkshbarshampoo",
+      "name": "DKSH Bar Shampoo",
+      "brand": "DKSH",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Dầu Gội Dạng Thanh",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "DKSH-dkshclaytofoammousse",
+      "name": "DKSH Clay to Foam Mousse",
+      "brand": "DKSH",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Bọt Rửa Từ Đất Sét",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "DKSH-dkshdryshampoo",
+      "name": "DKSH Dry Shampoo",
+      "brand": "DKSH",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Dầu Gội Khô",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "DKSH-dkshfacialwashcream",
+      "name": "DKSH Facial Wash Cream",
+      "brand": "DKSH",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Kem Rửa Mặt",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "DKSH-dkshfoamypowderfacialwash",
+      "name": "DKSH Foamy Powder Facial Wash",
+      "brand": "DKSH",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Sữa Rửa Mặt Dạng Bột Tạo Bọt",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "DKSH-dkshhairstrengtheningdryshampoo",
+      "name": "DKSH Hair Strengthening Dry Shampoo",
+      "brand": "DKSH",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Phục Hồi Chắc Khỏe Tóc Dầu Gội Khô",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "DKSH-dkshlastingconditioningbarshampoo",
+      "name": "DKSH Lasting Conditioning Bar Shampoo",
+      "brand": "DKSH",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Lasting Dưỡng Dầu Gội Dạng Thanh",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "DKSH-dkshnaturalclayemulsionbase",
+      "name": "DKSH Natural Clay Emulsion Base",
+      "brand": "DKSH",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Nền Nhũ Tương Đất Sét Tự Nhiên",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "DKSH-dkshpetdryshampoowithmineralclay",
+      "name": "DKSH Pet Dry Shampoo with Mineral Clay",
+      "brand": "DKSH",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Pet Dầu Gội Khô với Mineral Clay",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "DKSH-dkshwhiteningclaymask",
+      "name": "DKSH Whitening Clay Mask",
+      "brand": "DKSH",
+      "categories": [
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "DKSH",
+      "nameVi": "DKSH Mặt Nạ Đất Sét Làm Sáng Da",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "Gattefosé-instantradiance",
+      "name": "Instant Radiance",
+      "brand": "Gattefosé",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "Rạng Rỡ Tức Thì",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Gattefosé-jb2414",
+      "name": "JB2414",
+      "brand": "Gattefosé",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "JB2414",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Gattefosé-lipcheektint",
+      "name": "Lip Cheek Tint",
+      "brand": "Gattefosé",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "Lip Cheek Tạo Màu",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Gattefosé-mm8609",
+      "name": "MM8609",
+      "brand": "Gattefosé",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "MM8609",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Gattefosé-mm8644a",
+      "name": "MM8644A",
+      "brand": "Gattefosé",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "MM8644A",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Gattefosé-poreminimizer",
+      "name": "Pore Minimizer",
+      "brand": "Gattefosé",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Gattefosé (Pháp)",
+      "nameVi": "Se Khít Lỗ Chân Lông",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Lake Personal Care-dewydaycream",
+      "name": "Dewy Day Cream",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "Dewy Day Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "Lake Personal Care-skinovernightrecharge",
+      "name": "Skin overnight recharge",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "Da overnight recharge",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Lake Personal Care-stclements",
+      "name": "St Clements",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "St Clements",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Lake Personal Care-tattoocare",
+      "name": "Tattoo Care",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "Tattoo Care",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Lake Personal Care-toutelemonde",
+      "name": "Toute Le Monde",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "Toute Le Monde",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Lake Personal Care-tranquilitycream",
+      "name": "Tranquility Cream",
+      "brand": "Lake Personal Care",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lake Personal Care",
+      "nameVi": "Tranquility Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "Lipoid Kosmetik-advancedeffecthydrogel",
+      "name": "Advanced Effect Hydrogel",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Natipide-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Hiệu Quả Vượt Trội HydroGel",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Natipide-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-betterskindaycream",
+      "name": "Better Skin Day Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3",
+        "PN-90-G",
+        "PS-E",
+        "HG-NRG"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Better Da Day Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H-100-3, PN-90-G, PS-E, HG-NRG."
+    },
+    {
+      "id": "Lipoid Kosmetik-bluelightblockingcream",
+      "name": "Blue Light Blocking Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Carotolino",
+        "Mexican-Arnica-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Chặn Ánh Sáng Xanh Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Carotolino, Mexican-Arnica-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-boostinglipcream",
+      "name": "Boosting Lip Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "PhytoCollagen",
+        "Blossom-Honey-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Boosting Dưỡng Môi",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: PhytoCollagen, Blossom-Honey-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-byebyeblemishgel",
+      "name": "Bye Bye Blemish Gel",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "usNeo",
+        "Sphagnum-moss"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Bye Bye Blemish Gel",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: usNeo, Sphagnum-moss."
+    },
+    {
+      "id": "Lipoid Kosmetik-caffeinecellulitecontrollotion",
+      "name": "Caffeine Cellulite Control Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "Herb-Guarana",
+        "Caffeine-Herbasome"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Caffeine Giảm Rạn Da/Cellulite Sữa Dưỡng",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: LIP-P-75-3, Herb-Guarana, Caffeine-Herbasome."
+    },
+    {
+      "id": "Lipoid Kosmetik-cellrepairserum",
+      "name": "Cell Repair Serum",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3-PS-E",
+        "PS-Q10"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Cell Phục Hồi Serum",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-P-75-3-PS-E, PS-Q10."
+    },
+    {
+      "id": "Lipoid Kosmetik-cleanandsafehandcologne",
+      "name": "Clean and Safe Hand Cologne",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Anti-Irritant-Complex",
+        "Lemon-Flower-Extract"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Clean & Safe Nước Hoa Tay",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Anti-Irritant-Complex, Lemon-Flower-Extract."
+    },
+    {
+      "id": "Lipoid Kosmetik-cleancareshampoo",
+      "name": "Clean Care Shampoo",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [
+        "Rice-VNGR",
+        "Aloe-Bio-HE-PG"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Clean Care Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu. Hoạt chất/nguyên liệu chính: Rice-VNGR, Aloe-Bio-HE-PG."
+    },
+    {
+      "id": "Lipoid Kosmetik-cleansingoil",
+      "name": "Cleansing Oil",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "40IP",
+        "Herbasol-Edelweiss"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dầu Tẩy Trang",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: 40IP, Herbasol-Edelweiss."
+    },
+    {
+      "id": "Lipoid Kosmetik-clearupyourskincream",
+      "name": "Clear Up Your Skin Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "usNeo",
+        "Sphagnum-moss"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Clear Up Your Da Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: usNeo, Sphagnum-moss."
+    },
+    {
+      "id": "Lipoid Kosmetik-collagenbooster",
+      "name": "Collagen Booster",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "Nat-Eco",
+        "Acacia-Collagen-Glycerin"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Collagen Booster",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco, Nat-Eco, Acacia-Collagen-Glycerin."
+    },
+    {
+      "id": "Lipoid Kosmetik-comfortingbodylotion",
+      "name": "Comforting Body Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Amaretine",
+        "SLM-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Comforting Sữa Dưỡng Thể",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Amaretine, SLM-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-conceptcream",
+      "name": "Concept Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Concept Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H-100-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-creamyshowergel",
+      "name": "Creamy Showergel",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Sheabutter-Almond-Oil-Herbamilk-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Kemy ShowerGel",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Sheabutter-Almond-Oil-Herbamilk-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-dailydefensecream",
+      "name": "Daily Defense Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "HerbaShield-URB",
+        "LIP-P-75-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Daily Defense Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: HerbaShield-URB, LIP-P-75-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-deepenergyampoule",
+      "name": "Deep Energy Ampoule",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Coff-Herba"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Năng Lượng Sâu Ống Tinh Chất",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Coff-Herba."
+    },
+    {
+      "id": "Lipoid Kosmetik-deeptouchantiagingcream",
+      "name": "Deep Touch Anti Aging Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "PN-90G",
+        "LIP-P-75-3",
+        "PhytoSolve-Q10"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Chạm Sâu Chống Lão Hóa Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: PN-90G, LIP-P-75-3, PhytoSolve-Q10."
+    },
+    {
+      "id": "Lipoid Kosmetik-dualcontroldeospray",
+      "name": "Dual Control Deo Spray",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "usNeo",
+        "Sphagnum"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dual Control Deo Dạng Xịt",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: usNeo, Sphagnum."
+    },
+    {
+      "id": "Lipoid Kosmetik-eventonecream",
+      "name": "Even Tone Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3",
+        "Lipo-B3",
+        "Citrol-8"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Đều Màu Da Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H-100-3, Lipo-B3, Citrol-8."
+    },
+    {
+      "id": "Lipoid Kosmetik-firmingbodylotion",
+      "name": "Firming Bodylotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "PS-Q10",
+        "Caffeine-Herbasome"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Săn Chắc BodySữa Dưỡng",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco, PS-Q10, Caffeine-Herbasome."
+    },
+    {
+      "id": "Lipoid Kosmetik-gentleagereversebl",
+      "name": "Gentle Age Reverse BL",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "US-ACE"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dịu Nhẹ Age Reverse BL",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco, US-ACE."
+    },
+    {
+      "id": "Lipoid Kosmetik-gentlehandsanitizer",
+      "name": "Gentle Hand Sanitizer",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Lip-H-100"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dịu Nhẹ Rửa Tay Khô",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Lip-H-100."
+    },
+    {
+      "id": "Lipoid Kosmetik-gentlenaturalshowergel",
+      "name": "Gentle Natural Shower Gel",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dịu Nhẹ Tự Nhiên Shower Gel",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân."
+    },
+    {
+      "id": "Lipoid Kosmetik-gentlerepairhandcream",
+      "name": "Gentle Repair Hand Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Dịu Nhẹ Phục Hồi Kem Dưỡng Tay",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: LIP-H-100-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-honeyvitaminsenergycream",
+      "name": "Honey Vitamins Energy Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Lip-P-75-3",
+        "Honey-Pro",
+        "US-ACE"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Honey Vitamins Energy Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Lip-P-75-3, Honey-Pro, US-ACE."
+    },
+    {
+      "id": "Lipoid Kosmetik-intensiverepairmoisturizingcreamslm2026",
+      "name": "Intensive Repair Moisturizing Cream SLM 2026",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "PhytoSolve-A"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Chuyên Sâu Phục Hồi Dưỡng Ẩm Kem SLM 2026",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: PhytoSolve-A."
+    },
+    {
+      "id": "Lipoid Kosmetik-intensiveskincarebodylotion",
+      "name": "Intensive Skin Care Body Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3",
+        "40-IP"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Chuyên Sâu Da Care Sữa Dưỡng Thể",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: LIP-H-100-3, 40-IP."
+    },
+    {
+      "id": "Lipoid Kosmetik-livelyfaceoil",
+      "name": "Lively Face Oil",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Carotolino",
+        "Vitamin-F-oilsoluble-N"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Lively Dầu Dưỡng Mặt",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Carotolino, Vitamin-F-oilsoluble-N."
+    },
+    {
+      "id": "Lipoid Kosmetik-matrixshapingfacecream",
+      "name": "Matrix Shaping Face Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "PhytoCodine",
+        "Acacia-Collagen",
+        "LIP-P-75-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Matrix Shaping Mặt Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: PhytoCodine, Acacia-Collagen, LIP-P-75-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-microbiomebalancingfacemask",
+      "name": "Microbiome Balancing Face Mask",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Yogurtolin",
+        "Cranberry-Pro",
+        "LIP-P-75-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Microbiome Cân Bằng Mặt Nạ Mặt",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Yogurtolin, Cranberry-Pro, LIP-P-75-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-milkyricetonic",
+      "name": "Milky Rice Tonic",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Rice-Almond-Oil-Herbamilk-Eco",
+        "Acacia-Collagen-Powder"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Milky Rice Nước Dưỡng",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Rice-Almond-Oil-Herbamilk-Eco, Acacia-Collagen-Powder."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturalbodystick",
+      "name": "Natural Bodystick",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên BodyDạng Thỏi",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturalcellrenewalcream",
+      "name": "Natural Cell Renewal Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "PS-A"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên Cell Tái Tạo Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: SLM-Eco, PS-A."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturalfirmingserum",
+      "name": "Natural Firming Serum",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "PN-90-G",
+        "US-8041"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên Săn Chắc Serum",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-P-75-3, PN-90-G, US-8041."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturallipcarestick",
+      "name": "Natural Lip Care Stick",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "H-100-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên Dưỡng Môi Dạng Thỏi",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: H-100-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturalrichcarebodylotion",
+      "name": "Natural Rich Care Bodylotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên Rich Care BodySữa Dưỡng",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-naturalrichcarecream",
+      "name": "Natural Rich Care Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "SLM-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Tự Nhiên Rich Care Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: SLM-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-nuthoneysugarscrub",
+      "name": "Nut Honey Sugar Scrub",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Blossom-Honey-Pro",
+        "Tagua-Abrasive"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Nut Honey Sugar Tẩy Tế Bào Chết",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Blossom-Honey-Pro, Tagua-Abrasive."
+    },
+    {
+      "id": "Lipoid Kosmetik-oatmilkbodyyogurt",
+      "name": "Oat Milk Body Yogurt",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Oat-Almond-Oil-Herbamilk-Eco",
+        "Blueberry-fruit-organic"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Oat Milk Thân Yogurt",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Oat-Almond-Oil-Herbamilk-Eco, Blueberry-fruit-organic."
+    },
+    {
+      "id": "Lipoid Kosmetik-preciousfirmingbodyoil",
+      "name": "Precious Firming Body Oil",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Immortelle-Oil-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Quý Giá Săn Chắc Thân Oil",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Immortelle-Oil-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-protectrepairshampoo",
+      "name": "Protect Repair Shampoo",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [
+        "Cider-VNGR",
+        "Alpenrose"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Protect Phục Hồi Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu. Hoạt chất/nguyên liệu chính: Cider-VNGR, Alpenrose."
+    },
+    {
+      "id": "Lipoid Kosmetik-rechargecream",
+      "name": "Recharge Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "HerbaGlow-NRG",
+        "Natipide-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Recharge Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: HerbaGlow-NRG, Natipide-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-refineserum",
+      "name": "Refine Serum",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3",
+        "LIP-H100",
+        "Lip-C-Eco",
+        "Herba-NRG"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Refine Serum",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H-100-3, LIP-H100, Lip-C-Eco, Herba-NRG."
+    },
+    {
+      "id": "Lipoid Kosmetik-regeneratingbeautifulagingcream",
+      "name": "Regenerating Beautiful Aging Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "SLM-2026",
+        "LIP-P-75-3",
+        "CollaGain"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Regenerating Beautiful Aging Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: SLM-2026, LIP-P-75-3, CollaGain."
+    },
+    {
+      "id": "Lipoid Kosmetik-regeneratingovernightcream",
+      "name": "Regenerating Overnight Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Mountain-Tea-Pro",
+        "HerbaProtect-NOX"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Regenerating Overnight Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Mountain-Tea-Pro, HerbaProtect-NOX."
+    },
+    {
+      "id": "Lipoid Kosmetik-rejuvenatingbodylotion",
+      "name": "Rejuvenating Body Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "PN-90-G",
+        "PN-90-H",
+        "Wheat-Herbaprotein"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Trẻ Hóa Sữa Dưỡng Thể",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: PN-90-G, PN-90-H, Wheat-Herbaprotein."
+    },
+    {
+      "id": "Lipoid Kosmetik-rejuvenatingcream",
+      "name": "Rejuvenating Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "PN-90G",
+        "PN-90-H"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Trẻ Hóa Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: PN-90G, PN-90-H."
+    },
+    {
+      "id": "Lipoid Kosmetik-relaxingbedtimemist",
+      "name": "Relaxing Bedtime Mist",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "Mountain-Tea-Pro",
+        "Dead-Sea-Minerals"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Relaxing Bedtime Mist",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: Mountain-Tea-Pro, Dead-Sea-Minerals."
+    },
+    {
+      "id": "Lipoid Kosmetik-resculptingfacecream",
+      "name": "Resculpting Face Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H100-3",
+        "PS-A",
+        "PhytoCodine"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Resculpting Mặt Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H100-3, PS-A, PhytoCodine."
+    },
+    {
+      "id": "Lipoid Kosmetik-richmoisturizingbodylotion",
+      "name": "Rich Moisturizing Body Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "Hydro-Gain"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Rich Dưỡng Ẩm Sữa Dưỡng Thể",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: LIP-P-75-3, Hydro-Gain."
+    },
+    {
+      "id": "Lipoid Kosmetik-roseantiagingoil",
+      "name": "Rose Anti Aging Oil",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "40IP",
+        "Herbasol-Rose-Sunflower"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Rose Chống Lão Hóa Oil",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: 40IP, Herbasol-Rose-Sunflower."
+    },
+    {
+      "id": "Lipoid Kosmetik-sensitiveskinbarrierbooster",
+      "name": "Sensitive Skin Barrier Booster",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Da Nhạy Cảm Barrier Booster",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-simplygoodshampoo",
+      "name": "Simply Good Shampoo",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [
+        "usNeo",
+        "Sphagnum",
+        "Olive-Oil-W",
+        "Wheat-HP"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Simply Good Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu. Hoạt chất/nguyên liệu chính: usNeo, Sphagnum, Olive-Oil-W, Wheat-HP."
+    },
+    {
+      "id": "Lipoid Kosmetik-skinrelaxerserum",
+      "name": "Skin Relaxer Serum",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-H-100-3",
+        "Natipide-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Da Duỗi Tóc Serum",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-H-100-3, Natipide-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-slowagingcream",
+      "name": "Slow Aging Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "Nat-Eco"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Slow Aging Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-P-75-3, Nat-Eco."
+    },
+    {
+      "id": "Lipoid Kosmetik-softbarrierrepaircream",
+      "name": "Soft Barrier Repair Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "SLM-2026",
+        "Anti-Irritant-Complex"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Soft Barrier Phục Hồi Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: SLM-2026, Anti-Irritant-Complex."
+    },
+    {
+      "id": "Lipoid Kosmetik-softbarrierrepairhandcream",
+      "name": "Soft Barrier Repair Hand Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "PS-E",
+        "Herbasol-Saskatoon"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Soft Barrier Phục Hồi Kem Dưỡng Tay",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco, PS-E, Herbasol-Saskatoon."
+    },
+    {
+      "id": "Lipoid Kosmetik-softhydratingbodylotion",
+      "name": "Soft Hydrating Body Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "Hydro-Gain"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Soft Cấp Nước Sữa Dưỡng Thể",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: SLM-Eco, Hydro-Gain."
+    },
+    {
+      "id": "Lipoid Kosmetik-softrefinecream",
+      "name": "Soft Refine Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "SLM-Eco",
+        "Liposome-B3",
+        "Siberian-Ginseng-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Soft Refine Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: SLM-Eco, Liposome-B3, Siberian-Ginseng-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-softtouchmassageoil",
+      "name": "Soft Touch Massage Oil",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "PHOSAL-53-MCT",
+        "Cherry-Blossom",
+        "White-Tea-Herbasol-Extract",
+        "IPM"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Soft Touch Dầu Massage",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: PHOSAL-53-MCT, Cherry-Blossom, White-Tea-Herbasol-Extract, IPM."
+    },
+    {
+      "id": "Lipoid Kosmetik-soothingaftershavebalm",
+      "name": "Soothing After Shave Balm",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "Matico-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Làm Dịu Balm Sau Cạo Râu",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-P-75-3, Matico-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-stimulatinghairsolution",
+      "name": "Stimulating Hair Solution",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [
+        "Caff-Herbasome",
+        "Birke-HE-PG"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Stimulating Tóc Solution",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu. Hoạt chất/nguyên liệu chính: Caff-Herbasome, Birke-HE-PG."
+    },
+    {
+      "id": "Lipoid Kosmetik-sunsetlotion",
+      "name": "Sunset Lotion",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [
+        "HerbaProtect-NOX",
+        "LIP-P-75-3"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Sunset Sữa Dưỡng",
+      "functionVi": "Dưỡng và chăm sóc da toàn thân. Hoạt chất/nguyên liệu chính: HerbaProtect-NOX, LIP-P-75-3."
+    },
+    {
+      "id": "Lipoid Kosmetik-uniquedeepmoisturizingcream",
+      "name": "Unique Deep Moisturizing Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Hydro-Gain",
+        "SLM-2026"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Đặc Biệt Chuyên Sâu Dưỡng Ẩm Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Hydro-Gain, SLM-2026."
+    },
+    {
+      "id": "Lipoid Kosmetik-urbandetoxperfectvolumeshampoo",
+      "name": "Urban Detox Perfect Volume Shampoo",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [
+        "Water-Lily-Pro",
+        "HerbaShield-URB"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Urban Detox Perfect Volume Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu. Hoạt chất/nguyên liệu chính: Water-Lily-Pro, HerbaShield-URB."
+    },
+    {
+      "id": "Lipoid Kosmetik-veganstylehydratingcream",
+      "name": "Vegan Style Hydrating Cream",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "Hydro-Gain",
+        "Jackfruit-Pro"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Thuần Chay Style Cấp Nước Kem",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: Hydro-Gain, Jackfruit-Pro."
+    },
+    {
+      "id": "Lipoid Kosmetik-vitaminshotforyourskin",
+      "name": "Vitamin Shot for your Skin",
+      "brand": "Lipoid Kosmetik",
+      "categories": [
+        "Chăm sóc da mặt"
+      ],
+      "keyIngredients": [
+        "LIP-P-75-3",
+        "Lip-C",
+        "PS-A",
+        "PS-E",
+        "Coff-Herb",
+        "Vit-F"
+      ],
+      "brandLabel": "Lipoid Kosmetik (Đức)",
+      "nameVi": "Vitamin Shot cho your Da",
+      "functionVi": "Chăm sóc chuyên biệt cho da mặt. Hoạt chất/nguyên liệu chính: LIP-P-75-3, Lip-C, PS-A, PS-E, Coff-Herb, Vit-F."
+    },
+    {
+      "id": "Orafti-bodybutter",
+      "name": "Body Butter",
+      "brand": "Orafti",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Orafti (Beneo)",
+      "nameVi": "Bơ Dưỡng Thể",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "Orafti-cleopatramilkbath",
+      "name": "Cleopatra Milk Bath",
+      "brand": "Orafti",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Orafti (Beneo)",
+      "nameVi": "Cleopatra Sữa Tắm Bồn",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "Orafti-creamfoundation",
+      "name": "Cream Foundation",
+      "brand": "Orafti",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Orafti (Beneo)",
+      "nameVi": "Kem Foundation",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "quantiQ-exfoliatingbodygel",
+      "name": "Exfoliating body gel",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Tẩy Da Chết Thân Gel",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-facemask",
+      "name": "Face Mask",
+      "brand": "quantiQ",
+      "categories": [
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Mặt Nạ Mặt",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "quantiQ-hydratorliquidsoap",
+      "name": "Hydrator Liquid Soap",
+      "brand": "quantiQ",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Hydrator Xà Phòng Lỏng",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "quantiQ-liquidsoapformen",
+      "name": "Liquid Soap For Men",
+      "brand": "quantiQ",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Xà Phòng Lỏng Cho Nam Giới",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "quantiQ-liquidsoapwithteatreeoil",
+      "name": "Liquid soap with Tea Tree Oil",
+      "brand": "quantiQ",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Xà Phòng Lỏng với Tinh Dầu Tràm Trà",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "quantiQ-preshampoo",
+      "name": "Pre-Shampoo",
+      "brand": "quantiQ",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Dưỡng Trước Gội",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "quantiQ-projeto01008",
+      "name": "Projeto 010 08",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 010 08",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto01613",
+      "name": "Projeto 016 13",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 016 13",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto01812",
+      "name": "Projeto 018 12",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 018 12",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto01913",
+      "name": "Projeto 019 13",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 019 13",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto02609",
+      "name": "Projeto 026 09",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 026 09",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto03613",
+      "name": "Projeto 036 13",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 036 13",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto03810",
+      "name": "Projeto 038 10",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 038 10",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto04210",
+      "name": "Projeto 042 10",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 042 10",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto04512",
+      "name": "Projeto 045 12",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 045 12",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto06009",
+      "name": "Projeto 060 09",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 060 09",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "quantiQ-projeto06507",
+      "name": "Projeto 065 07",
+      "brand": "quantiQ",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "quantiQ",
+      "nameVi": "Projeto 065 07",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-356",
+      "name": "5% Benzoyl Peroxide Acne Treatment Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "356",
+      "categories": [
+        "Dược mỹ phẩm (OTC)",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "5% Benzoyl Peroxide Acne Treatment Sữa Dưỡng",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-503",
+      "name": "Aerosol Shave Cream for Sensitive Skin",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "503",
+      "categories": [
+        "Cạo râu / Tẩy lông",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Cạo Râu Dạng Xịt cho Da Nhạy Cảm",
+      "functionVi": "Hỗ trợ cạo râu hoặc tẩy lông êm ái, giảm kích ứng da."
+    },
+    {
+      "id": "vdb-558",
+      "name": "After Shaving Balm",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "558",
+      "categories": [
+        "Cạo râu / Tẩy lông",
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Balm Sau Cạo Râu",
+      "functionVi": "Hỗ trợ cạo râu hoặc tẩy lông êm ái, giảm kích ứng da."
+    },
+    {
+      "id": "vdb-487",
+      "name": "AHA Clay Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "487",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "AHA Mặt Nạ Đất Sét",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-652",
+      "name": "All-in-One Shampoo & Body Wash Bar",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "652",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Đa Năng Thanh Gội & Tắm 2 Trong 1",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "vdb-591",
+      "name": "Aloe & Oat Instant Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "591",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Lô Hội & Oat Tức Thì Mặt Nạ",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-651",
+      "name": "Aloe & Oat Instant Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "651",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Lô Hội & Oat Tức Thì Mặt Nạ",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-598",
+      "name": "Aloe & Oatmeal Soothing Poultice",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "598",
+      "categories": [
+        "Chăm sóc em bé"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Lô Hội & Yến Mạch Làm Dịu Poultice",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "vdb-570",
+      "name": "Antacid Formulation",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "570",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kháng Acid",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-445",
+      "name": "Antacid Formulation",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "445",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kháng Acid",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "R.T. Vanderbilt-antiaging",
+      "name": "Anti Aging",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Chống nắng",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chống Lão Hóa",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-578",
+      "name": "Anti-Aging Skin Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "578",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chống Lão Hóa Da Kem",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-355",
+      "name": "Antifungal Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "355",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Kháng Nấm",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "R.T. Vanderbilt-babycareweb",
+      "name": "Baby Care Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chăm sóc em bé"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Baby Care Web",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "vdb-553",
+      "name": "Baby Wash",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "553",
+      "categories": [
+        "Chăm sóc em bé",
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sữa Tắm Em Bé",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "R.T. Vanderbilt-bakingsodatoothpastewfluorideno6351",
+      "name": "Baking Soda Toothpaste w Fluoride No-6351",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Baking Soda Kem Đánh Răng w Fluoride No-6351",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "R.T. Vanderbilt-bathhaircareweb",
+      "name": "Bath Hair Care Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể",
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc tóc",
+        "Cạo râu / Tẩy lông"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bath Tóc Care Web",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "vdb-617",
+      "name": "BB Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "617",
+      "categories": [
+        "Trang điểm màu",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem BB",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-663",
+      "name": "BB Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "663",
+      "categories": [
+        "Trang điểm màu",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem BB",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-587",
+      "name": "Beauty Fluid with Collagen",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "587",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Beauty Fluid với Collagen",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-661",
+      "name": "Bentonite & Kaolin Peel-off Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "661",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Đất Sét Bentonite & Đất Sét Kaolin Mặt Nạ Lột",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-665",
+      "name": "Bentonite Instant Peelable Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "665",
+      "categories": [
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Đất Sét Bentonite Tức Thì Peelable Mặt Nạ",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-360",
+      "name": "Benzocaine Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "360",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Benzocaine Kem",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-557",
+      "name": "Bisabolol Cleansing Gel",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "557",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bisabolol Cleansing Gel",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-596",
+      "name": "Bismuth Subsalicylate Suspension",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "596",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bismuth Subsalicylate Suspension",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-281",
+      "name": "Bisulfite Relaxer",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "281",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bisulfite Duỗi Tóc",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-500",
+      "name": "Body Wash Spray",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "500",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sữa Tắm Dạng Xịt",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-492",
+      "name": "Botanical Skin Lightening Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "492",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Botanical Da Lightening Sữa Dưỡng",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-361",
+      "name": "Calamine Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "361",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sữa Calamine",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-618",
+      "name": "CC Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "618",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem CC",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-546",
+      "name": "Clear After-Sun Moisturizing Gel",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "546",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Clear Sau Khi Ra Nắng Dưỡng Ẩm Gel",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-648",
+      "name": "Collagen Instant Clay Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "648",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Collagen Tức Thì Mặt Nạ Đất Sét",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "R.T. Vanderbilt-colorcosmeticsweb",
+      "name": "Color Cosmetics Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Color Cosmetics Web",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-499",
+      "name": "Conditioning Hair & Body Shampoo",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "499",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dầu Gội Dưỡng Tóc",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "vdb-571",
+      "name": "Conditioning Skin Cream with Jojoba Oil",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "571",
+      "categories": [
+        "Chống lão hóa",
+        "Chăm sóc em bé",
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Da Kem với Dầu Jojoba",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-647",
+      "name": "Cranberry Seed & Shea Butter Exfoliating Body Polish",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "647",
+      "categories": [
+        "Tắm & Chăm sóc cơ thể"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Hạt Nam Việt Quất & Bơ Hạt Mỡ Tẩy Da Chết Tẩy Da Chết Toàn Thân",
+      "functionVi": "Làm sạch nhẹ nhàng và chăm sóc da trong lúc tắm."
+    },
+    {
+      "id": "vdb-600",
+      "name": "Cranberry Seed Face Scrub Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "600",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Hạt Nam Việt Quất Mặt Tẩy Tế Bào Chết Kem",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-638",
+      "name": "Cream Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "638",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Makeup",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-154",
+      "name": "Cream Matte Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "154",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Nền Lì",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-660",
+      "name": "Deep Cleansing Bentonite Hair Treatment",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "660",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Làm Sạch Sâu Đất Sét Bentonite Tóc Treatment",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-286",
+      "name": "Depilatory Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "286",
+      "categories": [
+        "Cạo râu / Tẩy lông"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sữa Tẩy Lông",
+      "functionVi": "Hỗ trợ cạo râu hoặc tẩy lông êm ái, giảm kích ứng da."
+    },
+    {
+      "id": "vdb-362",
+      "name": "Dry Skin Treatment Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "362",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Da Khô Treatment Sữa Dưỡng",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-641",
+      "name": "Environmental and Blue Light Protection Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "641",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Environmental & Chặn Ánh Sáng Xanh Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-662",
+      "name": "Environmental and Blue Light Protection Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "662",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Environmental & Chặn Ánh Sáng Xanh Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-640",
+      "name": "Environmental and Blue Light Protection Lotion for Wipes",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "640",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Environmental & Chặn Ánh Sáng Xanh Sữa Dưỡng cho Khăn Ướt",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-555",
+      "name": "Exfoliating Facial Scrub Containing Tea Tree Oil",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "555",
+      "categories": [
+        "Chống lão hóa",
+        "Sữa rửa mặt / Làm sạch",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tẩy Da Chết Cho Mặt Tẩy Tế Bào Chết Containing Tinh Dầu Tràm Trà",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-369",
+      "name": "External Analgesic Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "369",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Giảm Đau Ngoài Da Kem",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-443",
+      "name": "Extra-Strength Roll-On Antiperspirant",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "443",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Extra-Strength Lăn Khử Mùi",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-107",
+      "name": "Eyeliner",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "107",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kẻ Mắt",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-283",
+      "name": "Fade Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "283",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Fade Kem",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-613",
+      "name": "Fluoride-Stable Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "613",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Ổn Định Fluoride Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-659",
+      "name": "formula no659 Gentle Cleansing Sulfate-free Hand Wash",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "659",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "formula no659 Dịu Nhẹ Cleansing Không Sulfate Rửa Tay",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-645",
+      "name": "Gentle Cleansing Sulfate-free Facial Scrub",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "645",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dịu Nhẹ Cleansing Không Sulfate Cho Mặt Tẩy Tế Bào Chết",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-649",
+      "name": "Green Tea Instant Face Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "649",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Trà Xanh Tức Thì Mặt Nạ Mặt",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-612",
+      "name": "Hair Conditioner",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "612",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dầu Xả Tóc",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-366",
+      "name": "Hydrocortisone Acetate Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "366",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Hydrocortisone Acetate Kem",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-280",
+      "name": "Hydroxide Relaxer",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "280",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Duỗi Tóc Gốc Hydroxide",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-655",
+      "name": "Instant Baking Soda Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "655",
+      "categories": [
+        "Chăm sóc răng miệng",
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tức Thì Baking Soda Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-657",
+      "name": "Instant Charcoal Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "657",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tức Thì Than Hoạt Tính Mặt Nạ",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "R.T. Vanderbilt-instantsuccess91019web",
+      "name": "Instant Success 9 10 19 WEB",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tức Thì Success 9 10 19 WEB",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-590",
+      "name": "Instant Sulfur Acne Treatment Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "590",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tức Thì Sulfur Acne Treatment Mặt Nạ",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-484",
+      "name": "Intensive AHA Moisturizing Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "484",
+      "categories": [
+        "Dưỡng ẩm",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chuyên Sâu AHA Dưỡng Ẩm Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-476",
+      "name": "Intensive AHA Moisturizing Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "476",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chuyên Sâu AHA Dưỡng Ẩm Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-666",
+      "name": "Jojoba Oil & Shea Butter Moisturizing Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "666",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dầu Jojoba & Bơ Hạt Mỡ Dưỡng Ẩm Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-623",
+      "name": "Leg Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "623",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Trang Điểm Chân",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-604",
+      "name": "Licorice Extract Fade Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "604",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chiết Xuất Cam Thảo Fade Sữa Dưỡng",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-644",
+      "name": "Light Coverage Foundation",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "644",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Nền Che Phủ Nhẹ",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-602",
+      "name": "Liquid Foundation",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "602",
+      "categories": [
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Liquid Foundation",
+      "functionVi": "Công thức theo định hướng thành phần thiên nhiên/hữu cơ."
+    },
+    {
+      "id": "vdb-577",
+      "name": "Liquid Powder Foundation",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "577",
+      "categories": [
+        "Trang điểm màu",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Nền Dạng Lỏng-Phấn",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-413",
+      "name": "Liquid Tooth Polish",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "413",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Liquid Kem Đánh Bóng Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-603",
+      "name": "M Rich Body Butter Plus Sunscreen",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "603",
+      "categories": [
+        "Dưỡng ẩm",
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "M Rich Bơ Dưỡng Thể Plus Chống Nắng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-489",
+      "name": "M Web",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "489",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "M Web",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-565",
+      "name": "M WSkin Cream Base",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "565",
+      "categories": [
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "M WSkin Kem Base",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-486",
+      "name": "MAHA Clay Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "486",
+      "categories": [
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "MAHA Mặt Nạ Đất Sét",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "R.T. Vanderbilt-menscareweb",
+      "name": "Mens Care Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Mens Care Web",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-513",
+      "name": "Micro-TiO2 Sunscreen Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "513",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Micro-TiO2 Chống Nắng Kem",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "vdb-564",
+      "name": "Mild Pearlizing Shower Wash",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "564",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Mild Pearlizing Shower Wash",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-611",
+      "name": "Moisturizing Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "611",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Ẩm Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-568",
+      "name": "Moisturizing Cream with Sunscreen",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "568",
+      "categories": [
+        "Chống lão hóa",
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Ẩm Kem với Chống Nắng",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-554",
+      "name": "Moisturizing Gel for Oily Skin with Hyaluronic Acid",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "554",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Ẩm Gel cho Da Dầu với Hyaluronic Acid",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-551",
+      "name": "Moisturizing Lotion with Hydractin®",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "551",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Ẩm Sữa Dưỡng với Hydractin®",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-567",
+      "name": "Moisturizing Lotion with Sunscreen",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "567",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Chống nắng",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dưỡng Ẩm Sữa Dưỡng với Chống Nắng",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-457",
+      "name": "Mosquito Repellant Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "457",
+      "categories": [
+        "Chăm sóc em bé",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chống Muỗi Kem",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "vdb-576",
+      "name": "Natural Exfoliant Scrub",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "576",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Exfoliant Tẩy Tế Bào Chết",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-619",
+      "name": "Natural Hair Conditioner",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "619",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Dầu Xả Tóc",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-654",
+      "name": "Natural Instant Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "654",
+      "categories": [
+        "Chăm sóc răng miệng",
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Tức Thì Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-601",
+      "name": "Natural Moisturizing Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "601",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Dưỡng Ẩm Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-599",
+      "name": "Natural Skin Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "599",
+      "categories": [
+        "Chăm sóc em bé"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Da Kem",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "vdb-6341",
+      "name": "Natural Soft-Gel Toothpaste No 6341",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "6341",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiên Dạng Gel Mềm Kem Đánh Răng No 6341",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-658",
+      "name": "Naturally Clean & Mild Instant Shampoo",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "658",
+      "categories": [
+        "Chăm sóc tóc",
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tự Nhiênly Clean & Mild Tức Thì Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-572",
+      "name": "Nature’s Defense Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "572",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Nature’s Defense Kem",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-349",
+      "name": "Nonionic Liquid Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "349",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Nền Lỏng Nonionic",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-650",
+      "name": "Oat Instant Clay Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "650",
+      "categories": [
+        "Công thức nhanh (Instant)",
+        "Mặt nạ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Oat Tức Thì Mặt Nạ Đất Sét",
+      "functionVi": "Công thức đơn giản, dễ pha chế nhanh để tham khảo."
+    },
+    {
+      "id": "vdb-588",
+      "name": "Oatmeal & Macadamia Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "588",
+      "categories": [
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Yến Mạch & Macadamia Kem",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-586",
+      "name": "Oatmeal Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "586",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Yến Mạch Sữa Dưỡng",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-508",
+      "name": "Oil-Free Moisturizing Gel",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "508",
+      "categories": [
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Oil-Free Dưỡng Ẩm Gel",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-594",
+      "name": "Organic Baby Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "594",
+      "categories": [
+        "Chăm sóc em bé",
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sữa Dưỡng Em Bé Hữu Cơ",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "R.T. Vanderbilt-otcweb",
+      "name": "OTC Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "OTC Web",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "vdb-488",
+      "name": "Pearlescent No Residue Conditioning Shampoo",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "488",
+      "categories": [
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Pearlescent Không Để Lại Cặn Dầu Gội Dưỡng Tóc",
+      "functionVi": "Làm sạch bụi bẩn, dầu thừa trên da."
+    },
+    {
+      "id": "vdb-520",
+      "name": "Purified Bentonite Botanical Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "520",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Purified Đất Sét Bentonite Botanical Mặt Nạ",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-521",
+      "name": "Purified Bentonite Botanical Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "521",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Purified Đất Sét Bentonite Botanical Mặt Nạ",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-481",
+      "name": "Purified Bentonite Refining Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "481",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Purified Đất Sét Bentonite Refining Mặt Nạ",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-646",
+      "name": "Rejuvenating Instant Hair Treatment",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "646",
+      "categories": [
+        "Chăm sóc tóc",
+        "Công thức nhanh (Instant)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Trẻ Hóa Dưỡng Tóc Tức Thì",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-574",
+      "name": "Rejuvenating Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "574",
+      "categories": [
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Trẻ Hóa Sữa Dưỡng",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "R.T. Vanderbilt-remineraldesenliquiddentifriceno637",
+      "name": "Remineral Desen. Liquid Dentifrice No . 637",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Tái Khoáng Hóa Desen. Liquid Kem/Bột Đánh Răng No . 637",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-667",
+      "name": "Rich & Elegant Mineral Sunscreen Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "667",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sang Trọng & Cao Cấp Mineral Chống Nắng Kem",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "vdb-643",
+      "name": "Rich & Nourishing Green Silt Mask",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "643",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Rich & Nuôi Dưỡng Green Silt Mặt Nạ",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-629",
+      "name": "Roll-on Antiperspirant No 629 Web",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "629",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Lăn Khử Mùi No 629 Web",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-610",
+      "name": "Salicylic Acid Acne Treatment Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "610",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Salicylic Acid Acne Treatment Kem",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-501",
+      "name": "Shaving Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "501",
+      "categories": [
+        "Cạo râu / Tẩy lông",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Cạo Râu",
+      "functionVi": "Hỗ trợ cạo râu hoặc tẩy lông êm ái, giảm kích ứng da."
+    },
+    {
+      "id": "vdb-460",
+      "name": "Silky Smooth Emollient Liquid Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "460",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Nền Lỏng Mềm Mượt",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-664",
+      "name": "Skin Cream with Natural Moisturizers",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "664",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Da Kem với Tự Nhiên Dưỡng Ẩms",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-573",
+      "name": "Skin Renewal Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "573",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Da Tái Tạo Kem",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-575",
+      "name": "Skin Softening Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "575",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm",
+        "Thiên nhiên / Hữu cơ"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Da Softening Kem",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-405",
+      "name": "Sodium Monofluorophosphate Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "405",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sodium Monofluorophosphate Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-562",
+      "name": "Soft-Gel Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "562",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Dạng Gel Mềm Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-595",
+      "name": "Soothing Organic Skin Lotion with Calendula Extract",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "595",
+      "categories": [
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Làm Dịu Hữu Cơ Da Sữa Dưỡng với Cúc Vạn Thọ Extract",
+      "functionVi": "Cấp ẩm, làm mềm mượt da, dùng được hằng ngày."
+    },
+    {
+      "id": "vdb-583",
+      "name": "Sulfur and Salicylic Acid Acne Treatment Wash",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "583",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Sulfur & Salicylic Acid Acne Treatment Wash",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "vdb-566",
+      "name": "Sun Protection Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "566",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bảo Vệ Da Khỏi Nắng Kem",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "vdb-437",
+      "name": "Super Moisturizing Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "437",
+      "categories": [
+        "Chống lão hóa",
+        "Dưỡng ẩm",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Super Dưỡng Ẩm Sữa Dưỡng",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-277",
+      "name": "Thioglycolate Relaxer",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "277",
+      "categories": [
+        "Chăm sóc tóc"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Thioglycolate Duỗi Tóc",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "vdb-403",
+      "name": "Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "403",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-440",
+      "name": "Toothpaste",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "440",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Kem Đánh Răng",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "vdb-653",
+      "name": "Unit Dose Bismuth Subsalicylate Powder",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "653",
+      "categories": [
+        "Dược mỹ phẩm (OTC)"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Liều Đơn Bismuth Subsalicylate Dạng Bột",
+      "functionVi": "Chứa hoạt chất điều trị, thuộc nhóm dược mỹ phẩm không kê đơn."
+    },
+    {
+      "id": "R.T. Vanderbilt-veegumdweb",
+      "name": "VEEGUM D Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Chăm sóc răng miệng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "VEEGUM D Web",
+      "functionVi": "Vệ sinh và chăm sóc sức khỏe răng miệng."
+    },
+    {
+      "id": "R.T. Vanderbilt-veegumfacemasksweb",
+      "name": "VEEGUM Face Masks Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Mặt nạ",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "VEEGUM Mặt Nạ Mặts Web",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "R.T. Vanderbilt-veegumultraweb",
+      "name": "VEEGUM Ultra Web",
+      "brand": "R.T. Vanderbilt",
+      "categories": [
+        "Mặt nạ",
+        "Chống nắng",
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "VEEGUM Ultra Web",
+      "functionVi": "Cấp ẩm hoặc đặc trị chuyên sâu dạng mặt nạ, dùng định kỳ."
+    },
+    {
+      "id": "vdb-490",
+      "name": "Vitamin Enriched Barrier Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "490",
+      "categories": [
+        "Chăm sóc em bé",
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bổ Sung Vitamin Kem Bảo Vệ Da",
+      "functionVi": "Công thức dịu nhẹ dành cho làn da nhạy cảm của trẻ nhỏ."
+    },
+    {
+      "id": "vdb-545",
+      "name": "Vitamin-Enriched Skin Cream with Natural Moisturizers",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "545",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Dưỡng ẩm"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bổ Sung Vitamin Da Kem với Tự Nhiên Dưỡng Ẩms",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-515",
+      "name": "Wash-Off Resistant Sunscreen Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "515",
+      "categories": [
+        "Chăm sóc nam giới",
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bền Với Nước Rửa Chống Nắng Kem",
+      "functionVi": "Sản phẩm chăm sóc da hoặc tóc dành riêng cho nam giới."
+    },
+    {
+      "id": "vdb-514",
+      "name": "Wash-Off Resistant Sunscreen Cream",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "514",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Bền Với Nước Rửa Chống Nắng Kem",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "vdb-505",
+      "name": "Washing Cream for Sensitive Skin",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "505",
+      "categories": [
+        "Chống lão hóa",
+        "Chăm sóc em bé",
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Washing Kem cho Da Nhạy Cảm",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-556",
+      "name": "Washing Gel with Tea Tree Oil",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "556",
+      "categories": [
+        "Chống lão hóa",
+        "Sữa rửa mặt / Làm sạch",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Washing Gel với Tinh Dầu Tràm Trà",
+      "functionVi": "Hỗ trợ làm chậm lão hóa da, cải thiện nếp nhăn và độ đàn hồi."
+    },
+    {
+      "id": "vdb-332",
+      "name": "Water-in-Oil Luxurious Makeup",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "332",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Nhũ Tương Nước-Trong-Dầu Luxurious Makeup",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-376",
+      "name": "Water-in-Oil Mascara",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "376",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Nhũ Tương Nước-Trong-Dầu Mascara",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-453",
+      "name": "Water-Resistant Sport Tint",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "453",
+      "categories": [
+        "Trang điểm màu",
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chống Nước Kem Màu Thể Thao",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "vdb-494",
+      "name": "Water-Resistant Sunscreen Lotion",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "494",
+      "categories": [
+        "Chống nắng"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Chống Nước Chống Nắng Sữa Dưỡng",
+      "functionVi": "Bảo vệ da khỏi tác hại của tia UV."
+    },
+    {
+      "id": "vdb-364",
+      "name": "Zinc Pyrithione Lotion Shampoo",
+      "brand": "R.T. Vanderbilt",
+      "formulaNo": "364",
+      "categories": [
+        "Chăm sóc tóc",
+        "Chăm sóc nam giới"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "R.T. Vanderbilt (Mỹ)",
+      "nameVi": "Zinc Pyrithione Sữa Dưỡng Shampoo",
+      "functionVi": "Làm sạch, nuôi dưỡng hoặc phục hồi tóc và da đầu."
+    },
+    {
+      "id": "Sun Chemical-chemicalmakeupfoundationsynmicafine",
+      "name": "Chemical Make-up Foundation SynMICA FINE",
+      "brand": "Sun Chemical",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Sun Chemical",
+      "nameVi": "Chemical Make-up Foundation SynMICA FINE",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Sun Chemical-chemicalmakeupfoundationsynmicasuper",
+      "name": "Chemical Make-up Foundation SynMICA SUPER",
+      "brand": "Sun Chemical",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Sun Chemical",
+      "nameVi": "Chemical Make-up Foundation SynMICA SUPER",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Sun Chemical-creamyeyeshadowdiamondpurple",
+      "name": "Creamy Eye Shadow Diamond Purple",
+      "brand": "Sun Chemical",
+      "categories": [
+        "Trang điểm màu"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Sun Chemical",
+      "nameVi": "Kemy Phấn Mắt Diamond Purple",
+      "functionVi": "Sản phẩm trang điểm tạo màu, che phủ hoặc tán sắc tố."
+    },
+    {
+      "id": "Sun Chemical-eyelinerstarblue",
+      "name": "Eye Liner Star Blue",
+      "brand": "Sun Chemical",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Sun Chemical",
+      "nameVi": "Kẻ Mắt Star Blue",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    },
+    {
+      "id": "Sun Chemical-eyelinersuperdeepblue",
+      "name": "Eye Liner Super Deep Blue",
+      "brand": "Sun Chemical",
+      "categories": [
+        "Đặc trị & Chăm sóc cá nhân"
+      ],
+      "keyIngredients": [],
+      "brandLabel": "Sun Chemical",
+      "nameVi": "Kẻ Mắt Super Deep Blue",
+      "functionVi": "Sản phẩm đặc trị hoặc chăm sóc cá nhân chuyên biệt."
+    }
+  ]
+}
