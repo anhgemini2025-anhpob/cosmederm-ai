@@ -33,7 +33,7 @@ function DrillList<T extends { key: string; label: string }>({
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -12 }}
           transition={{ duration: 0.18 }}
-          className="overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
+          className="rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
         >
           <button
             onClick={() => setOpenKey(null)}

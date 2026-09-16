@@ -19,7 +19,7 @@ export default function SampleFormulations() {
         return (
           <div
             key={formula.formula_id}
-            className="overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
+            className="rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
           >
             <button
               onClick={() => setOpenId(isOpen ? null : formula.formula_id)}

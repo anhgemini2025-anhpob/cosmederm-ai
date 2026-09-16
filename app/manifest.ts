@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "CosmeDerm AI Academy",
     short_name: "CosmeDerm",
     description:
-      "Ứng dụng học tập da liễu thẩm mỹ và khoa học mỹ phẩm — tra cứu thành phần, phòng lab công thức ảo và phác đồ điều trị.",
+      "Ứng dụng học tập da liễu thẩm mỹ và khoa học mỹ phẩm — tra cứu thành phần, phòng lab công thức ảo và routine chăm sóc cá nhân hóa.",
     start_url: "/",
     display: "standalone",
     background_color: "#FCFCFD",

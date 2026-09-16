@@ -15,7 +15,7 @@ const beVietnamPro = Be_Vietnam_Pro({
 export const metadata: Metadata = {
   title: "CosmeDerm AI Academy",
   description:
-    "Ứng dụng học tập da liễu thẩm mỹ và khoa học mỹ phẩm — tra cứu thành phần, phòng lab công thức ảo và phác đồ điều trị, tích hợp tri thức từ 10 cuốn sách nền tảng.",
+    "Ứng dụng học tập da liễu thẩm mỹ và khoa học mỹ phẩm — tra cứu thành phần, phòng lab công thức ảo và routine chăm sóc cá nhân hóa, tích hợp tri thức từ 10 cuốn sách nền tảng.",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",

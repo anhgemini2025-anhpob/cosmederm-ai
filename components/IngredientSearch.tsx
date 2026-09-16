@@ -62,7 +62,7 @@ function ResultCard({ ingredient }: { ingredient: Ingredient }) {
   const tone = safetyTone(ingredient.cir_safety_status);
 
   return (
-    <div className="overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]">
+    <div className="rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]">
       <button onClick={() => setOpen((o) => !o)} className="flex w-full items-start gap-3 p-4 text-left">
         <div className="min-w-0 flex-1">
           <div className="flex flex-wrap items-center gap-2">

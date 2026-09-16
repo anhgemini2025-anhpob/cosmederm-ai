@@ -154,7 +154,7 @@ export default function FormulationCatalog() {
               return (
                 <div
                   key={f.id}
-                  className="overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
+                  className="rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
                 >
                   <div className="flex w-full items-start gap-3 p-3.5 text-left">
                     <button

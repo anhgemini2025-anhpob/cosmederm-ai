@@ -20,7 +20,7 @@ export default function LibraryBookCard({
   return (
     <div
       id={book.slug}
-      className="scroll-mt-24 overflow-hidden rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
+      className="scroll-mt-24 rounded-2xl bg-white shadow-card ring-1 ring-black/[0.03]"
     >
       <div className="flex w-full items-start gap-3 p-4 text-left">
         <button onClick={() => setOpen((o) => !o)} className="flex min-w-0 flex-1 items-start gap-3 text-left">
