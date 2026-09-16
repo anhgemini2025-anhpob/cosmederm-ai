@@ -2,14 +2,14 @@
 
 import { useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import { ArrowLeft, Check, ChevronDown, MessageCircle, Plus, Search, ShoppingBag, Trash2, X } from "lucide-react";
+import { ArrowLeft, Check, ChevronDown, Plus, Search, ShoppingBag } from "lucide-react";
 import catalogData from "@/data/formulation_catalog.json";
 import type { FormulationCatalogDatabase } from "@/lib/types";
 import { useFormulationCart } from "@/components/useFormulationCart";
+import RequestFormModal from "@/components/RequestFormModal";
 import { cn } from "@/lib/utils";
 
 const database = catalogData as FormulationCatalogDatabase;
-const ZALO_URL = "https://zalo.me/84908095693";
 
 const CATEGORY_EMOJI: Record<string, string> = {
   "Chống lão hóa": "✨",
@@ -46,7 +46,6 @@ export default function FormulationCatalog() {
   const [query, setQuery] = useState("");
   const [activeCategory, setActiveCategory] = useState<string | null>(null);
   const [cartOpen, setCartOpen] = useState(false);
-  const [copied, setCopied] = useState(false);
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const { cart, toggle, clear } = useFormulationCart();
 
@@ -70,14 +69,6 @@ export default function FormulationCatalog() {
   }, [q, searching, activeCategory]);
 
   const cartItems = database.formulations.filter((f) => cart.has(f.id));
-
-  const copyCartList = () => {
-    const text = cartItems.map((f) => `- ${formulaLabel(f)} (${f.brandLabel})`).join("\n");
-    navigator.clipboard.writeText(`Tôi muốn yêu cầu chi tiết các công thức sau:\n${text}`).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    });
-  };
 
   const showingList = searching || activeCategory;
 
@@ -236,72 +227,14 @@ export default function FormulationCatalog() {
         </div>
       )}
 
-      <AnimatePresence>
-        {cartOpen && (
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            className="fixed inset-0 z-50 flex items-end bg-black/40 sm:items-center sm:justify-center"
-            onClick={() => setCartOpen(false)}
-          >
-            <motion.div
-              initial={{ y: 40, opacity: 0 }}
-              animate={{ y: 0, opacity: 1 }}
-              exit={{ y: 40, opacity: 0 }}
-              onClick={(e) => e.stopPropagation()}
-              className="max-h-[75vh] w-full overflow-y-auto rounded-t-3xl bg-white p-5 sm:max-w-md sm:rounded-3xl"
-            >
-              <div className="mb-3 flex items-center justify-between">
-                <p className="text-sm font-bold text-primary-700">Giỏ công thức ({cartItems.length})</p>
-                <button onClick={() => setCartOpen(false)} className="text-slate-400">
-                  <X size={18} />
-                </button>
-              </div>
-
-              {cartItems.length === 0 ? (
-                <p className="rounded-xl bg-surface p-4 text-center text-xs text-slate-400">
-                  Chưa có công thức nào trong giỏ. Nhấn dấu + trên danh sách để thêm.
-                </p>
-              ) : (
-                <div className="flex flex-col gap-2">
-                  {cartItems.map((f) => (
-                    <div key={f.id} className="flex items-center justify-between gap-2 rounded-xl bg-surface p-2.5">
-                      <div className="min-w-0">
-                        <p className="truncate text-xs font-semibold text-primary-700">{f.name}</p>
-                        <p className="text-[12px] text-slate-400">{f.brandLabel}</p>
-                      </div>
-                      <button onClick={() => toggle(f.id)} className="shrink-0 text-slate-400" aria-label="Xóa">
-                        <Trash2 size={14} />
-                      </button>
-                    </div>
-                  ))}
-
-                  <div className="mt-2 flex flex-col gap-2">
-                    <button
-                      onClick={copyCartList}
-                      className="rounded-full bg-surface py-2.5 text-xs font-semibold text-primary-600"
-                    >
-                      {copied ? "Đã sao chép danh sách" : "Sao chép danh sách"}
-                    </button>
-                    <a
-                      href={ZALO_URL}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center justify-center gap-2 rounded-full bg-primary-500 py-2.5 text-xs font-semibold text-white active:scale-[0.98]"
-                    >
-                      <MessageCircle size={14} /> Gửi yêu cầu qua Zalo
-                    </a>
-                    <button onClick={clear} className="text-[13px] font-semibold text-slate-400">
-                      Xóa toàn bộ giỏ
-                    </button>
-                  </div>
-                </div>
-              )}
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+      <RequestFormModal
+        open={cartOpen}
+        onClose={() => setCartOpen(false)}
+        items={cartItems.map((f) => ({ id: f.id, title: formulaLabel(f), subtitle: f.brandLabel }))}
+        itemsLabel="Công thức"
+        onRemoveItem={(id) => toggle(id)}
+        onClearAll={clear}
+      />
     </div>
   );
 }

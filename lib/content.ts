@@ -870,6 +870,7 @@ export const STUDENT_KEY_CONCEPTS: StudentCategory[] = [
 export const AUTHOR = {
   name: "Nguyễn Đức Duy Anh",
   phone: "+84 908 095 693",
+  email: "anhpob@gmail.com",
   date: "September 2026",
   credit: "Concept, Content & Design by",
 };

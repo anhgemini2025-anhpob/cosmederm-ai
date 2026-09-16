@@ -55,6 +55,7 @@ export default function IngredientReport({
 
   const exportPdf = async () => {
     if (!reportRef.current) return;
+    const previewTab = window.open("", "_blank");
     setExporting(true);
     try {
       const [{ default: html2canvas }, { jsPDF }] = await Promise.all([import("html2canvas"), import("jspdf")]);
@@ -67,10 +68,12 @@ export default function IngredientReport({
       const w = canvas.width * ratio;
       const h = canvas.height * ratio;
       pdf.addImage(imgData, "JPEG", (pageWidth - w) / 2, 8, w, h);
-      const filename = parsed.productName ? `bao-cao-${parsed.productName.replace(/[^\p{L}\p{N}]+/gu, "-")}.pdf` : "bao-cao-thanh-phan.pdf";
-      pdf.save(filename);
+      const blobUrl = URL.createObjectURL(pdf.output("blob"));
+      if (previewTab) previewTab.location.href = blobUrl;
+      else window.open(blobUrl, "_blank");
     } catch (err) {
       console.error(err);
+      previewTab?.close();
     } finally {
       setExporting(false);
     }
