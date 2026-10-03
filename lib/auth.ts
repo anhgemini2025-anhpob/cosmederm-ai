@@ -1,4 +1,4 @@
-export const ACCESS_DAYS = 7;
+export const ACCESS_DAYS = 14;
 export const AUTH_EVENT = "cosmederm-auth-change";
 
 const DAY_MS = 24 * 60 * 60 * 1000;
@@ -134,12 +134,16 @@ async function derive(password: string, salt: Uint8Array<ArrayBuffer>): Promise<
 const hasCrypto = () => typeof crypto !== "undefined" && !!crypto.subtle;
 const NO_CRYPTO = "Trình duyệt này chưa hỗ trợ đăng nhập. Vui lòng mở bằng Chrome hoặc Safari.";
 
+// Access always lasts at least ACCESS_DAYS from registration, so a longer period also covers accounts
+// created earlier (their stored expiresAt still reflects the old period).
+const accessUntil = (a: Account) => Math.max(a.expiresAt, a.createdAt + ACCESS_DAYS * DAY_MS);
+
 export function getStatus(): AuthStatus {
   const id = readSession();
   if (!id) return "none";
   const account = readAccounts().find((a) => a.id === id);
   if (!account) return "none";
-  return Date.now() < account.expiresAt ? "authed" : "expired";
+  return Date.now() < accessUntil(account) ? "authed" : "expired";
 }
 
 export async function registerAccount(input: RegisterInput): Promise<AuthResult> {
