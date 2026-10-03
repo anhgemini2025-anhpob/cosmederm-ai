@@ -13,6 +13,7 @@ import {
 } from "lucide-react";
 import RoleSelector from "@/components/RoleSelector";
 import ExternalTools from "@/components/ExternalTools";
+import LogoutButton from "@/components/auth/LogoutButton";
 import { AUTHOR, LIBRARY_BOOKS } from "@/lib/content";
 import { GAMES } from "@/lib/games";
 
@@ -173,6 +174,7 @@ export default function HomePage() {
           <p className="mt-1 text-[13px] text-slate-400">
             {AUTHOR.phone} · {AUTHOR.date}
           </p>
+          <LogoutButton />
         </div>
       </footer>
     </div>

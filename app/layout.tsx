@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Be_Vietnam_Pro } from "next/font/google";
 import "./globals.css";
-import TopNav, { TOP_NAV_HEIGHT } from "@/components/ui/TopNav";
+import AuthGate from "@/components/AuthGate";
 import Watermark from "@/components/Watermark";
 import CopyProtection from "@/components/CopyProtection";
 
@@ -39,13 +39,7 @@ export default function RootLayout({
     <html lang="vi" className={beVietnamPro.variable}>
       <body className="min-h-screen bg-soft font-sans text-slate-800 antialiased">
         <CopyProtection />
-        <TopNav />
-        <div
-          className="mx-auto min-h-screen max-w-2xl bg-soft pb-10 lg:max-w-5xl xl:max-w-6xl"
-          style={{ paddingTop: TOP_NAV_HEIGHT }}
-        >
-          {children}
-        </div>
+        <AuthGate>{children}</AuthGate>
         <Watermark />
       </body>
     </html>

@@ -7,6 +7,17 @@ export interface GuideSection {
 
 export const GUIDE_SECTIONS: GuideSection[] = [
   {
+    emoji: "🔐",
+    title: "Đăng ký & đăng nhập",
+    what: "Lần đầu mở app, bạn tạo một tài khoản để sử dụng. Những lần sau chỉ cần đăng nhập.",
+    steps: [
+      "Mở app — màn hình đầu tiên là trang Đăng nhập.",
+      "Nếu chưa có tài khoản, bấm tab \"Đăng ký\", nhập họ tên, số điện thoại, email và mật khẩu (tối thiểu 6 ký tự), rồi bấm \"Đăng ký & vào học\".",
+      "Lần sau, nhập email hoặc số điện thoại cùng mật khẩu và bấm \"Đăng nhập\".",
+      "Muốn thoát tài khoản, kéo xuống cuối Trang chủ và bấm \"Đăng xuất\".",
+    ],
+  },
+  {
     emoji: "🎓",
     title: "Lộ trình học tập",
     what: "3 con đường học riêng cho Người mới bắt đầu, Sinh viên chuyên ngành và Chuyên gia — chọn đúng vai trò của bạn để thấy nội dung phù hợp nhất.",

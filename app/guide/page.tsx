@@ -13,8 +13,8 @@ export default function GuidePage() {
       />
       <div className="flex flex-col gap-3 px-5">
         <p className="text-xs leading-relaxed text-slate-500">
-          App có {GUIDE_SECTIONS.length} khu vực chính. Mỗi mục dưới đây giải thích khu vực đó dùng để làm gì và
-          cách dùng theo từng bước — không cần biết trước gì cả.
+          Dưới đây là {GUIDE_SECTIONS.length} phần hướng dẫn. Mỗi mục giải thích phần đó dùng để làm gì và cách
+          dùng theo từng bước — không cần biết trước gì cả.
         </p>
         {GUIDE_SECTIONS.map((s) => (
           <div key={s.title} className="rounded-2xl bg-white p-4 shadow-card ring-1 ring-black/[0.03]">
