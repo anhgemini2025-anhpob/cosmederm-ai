@@ -197,7 +197,7 @@ export const EXTERNAL_TOOLS: ExternalTool[] = [
     description:
       "Trợ lý chọn khoáng chất và phụ gia đặc chủng Vanderbilt theo từng ngành ứng dụng — từ mỹ phẩm, dược phẩm đến nông nghiệp và công nghiệp.",
     stat: "7 ngành ứng dụng",
-    url: "https://vanderbilt-advisor.anh-gemini2025.workers.dev/",
+    url: "https://vanderbiltadvisor.vercel.app/",
   },
 ];
 
