@@ -181,7 +181,7 @@ export const EXTERNAL_TOOLS: ExternalTool[] = [
     description:
       "Toàn bộ danh mục Phospholipid, Liposome và hoạt chất/chiết xuất thực vật của Lipoid Kosmetik, dịch tiếng Việt và sắp xếp theo cách formulator tra cứu thực tế, kèm công thức mẫu tham khảo.",
     stat: "536 nguyên liệu · 81 công thức",
-    url: "https://lipoid-advisor.pages.dev/",
+    url: "https://lipoidadvisor.vercel.app/",
   },
   {
     name: "ALGAKTIV Advisor",
