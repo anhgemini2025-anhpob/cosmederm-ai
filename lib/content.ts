@@ -173,7 +173,7 @@ export const EXTERNAL_TOOLS: ExternalTool[] = [
     description:
       "Bộ lọc thông minh giúp chọn chất bảo quản và hoạt chất LANXESS theo dạng sản phẩm, pH mục tiêu và nhóm chức năng — kèm tỷ lệ dùng khuyến nghị.",
     stat: "29+ giải pháp",
-    url: "https://lanxess-cosmetic-advisor.pages.dev/",
+    url: "https://lanxessadvisor.vercel.app/",
   },
   {
     name: "Lipoid Advisor",
@@ -189,7 +189,7 @@ export const EXTERNAL_TOOLS: ExternalTool[] = [
     description:
       "Cẩm nang tương tác về 10 hoạt chất ALGAKTIV® và 4 nhóm vi tảo nền tảng — đi từ cơ chế sinh học biển đến ứng dụng công thức hoàn chỉnh.",
     stat: "10 hoạt chất · 4 nhóm vi tảo",
-    url: "https://algaktiv-advisor.pages.dev/",
+    url: "https://algaktivadvisor.vercel.app/",
   },
   {
     name: "Vanderbilt Advisor",
